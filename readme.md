@@ -4,12 +4,12 @@ SD Card, or commands coming in over a Bluetooth connection? This project aims to
 
 This repository is a real group effort across a number of contributors over time:
 
-----------------------------------------
 1. Using many excellent additions from [qnimble](https://github.com/qnimble)/[qCommand](https://github.com/qnimble/qCommand):
 ----------------------------------------
 
 [ben-qnimble](https://github.com/ben-qnimble) made some great additions to their fork of this repo. Their changes include case insensitivity,
 better interpretation of arguments comming from streams and a bunch more. I'll do my best to add to these significant changes in a useful way.
+Note that these create additional dependencies.
 
 ----------------------------------------
 2. Based on StreamCommandParser (This repository which was active in 2020, went dormant and then is active again in 2024):
