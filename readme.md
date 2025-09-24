@@ -1,7 +1,7 @@
 Have you ever needed to create a simple command api across various stream interfaces?  Perhaps human input from a serial monitor, commands stored on an 
 SD Card, or commands coming in over a Bluetooth connection? This project aims to standardize and simplify registering and handling command invocations across various stream based serial interfaces. You could use this to make a remote control vehicle or interact with various IOT devices. Woohoo! 
 
-This is the basic stream command parsing library you've been lookingfor. It allows use of any Stream interface that commands might come through, such as Serial, BLE and/or an SD card stream.
+This is the basic stream command parsing library you've been looking for. It allows use of any Stream interface that commands might come through, such as Serial, BLE and/or an SD card stream.
 
 StreamCommandParser was written by [jongarrison](https://github.com/jongarrison) and it available [here](https://github.com/jongarrison/StreamCommandParser).
 
