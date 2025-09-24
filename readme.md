@@ -8,7 +8,7 @@ StreamCommandParser was written by [jongarrison](https://github.com/jongarrison)
 This repository is a real group effort across a number of contributors over time:
 
 1. Based on Arduino-SerialCommand (pre 2020 contributions):
-----------------------------------------
+----
 
 A Wiring/Arduino library to tokenize and parse commands received over a serial port. 
 
