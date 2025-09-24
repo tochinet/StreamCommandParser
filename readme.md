@@ -7,8 +7,7 @@ StreamCommandParser was written by [jongarrison](https://github.com/jongarrison)
 
 This repository is a real group effort across a number of contributors over time:
 
-1. Based on Arduino-SerialCommand (pre 2020 contributions):
-----
+### 1. Based on Arduino-SerialCommand (pre 2020 contributions):
 
 A Wiring/Arduino library to tokenize and parse commands received over a serial port. 
 
@@ -16,8 +15,7 @@ The original version of this library was written by [Steven Cogswell](http://hus
 
 StreamCommandParser is a heavily modified version with smaller footprint and a cleaned up code by Stefan Rado.
 
-2. Refactoring from [qnimble](https://github.com/qnimble)/[qCommand](https://github.com/qnimble/qCommand):
-----------------------------------------
+### 2. Refactoring from [qnimble](https://github.com/qnimble)/[qCommand](https://github.com/qnimble/qCommand):
 
 [ben-qnimble](https://github.com/ben-qnimble) made some great additions to their fork of this repo. Their changes include case insensitivity,
 better interpretation of arguments comming from streams and a bunch more. Some of these are refactored here.
