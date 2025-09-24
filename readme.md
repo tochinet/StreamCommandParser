@@ -11,11 +11,11 @@ This repository is a real group effort across a number of contributors over time
 
 A Wiring/Arduino library to tokenize and parse commands received over a serial port. 
 
-The [original version](https://github.com/scogswell/ArduinoSerialCommand) of this library was written by Steven Cogswell (published May 23, 2011 in his blog post ["A Minimal Arduino Library for Processing Serial Commands"](http://husks.wordpress.com/2011/05/23/a-minimal-arduino-library-for-processing-serial-commands/)).
+The [original version](https://github.com/scogswell/ArduinoSerialCommand) of this library was written by [Steven Cogswell](http://awtfy.com) and published on May 23, 2011 in his blog post ["A Minimal Arduino Library for Processing Serial Commands"](http://husks.wordpress.com/2011/05/23/a-minimal-arduino-library-for-processing-serial-commands/)).
 
 StreamCommandParser is a heavily modified version with smaller footprint and a cleaned up code by Stefan Rado.
 
-### 2. Refactoring from [qnimble](https://github.com/qnimble)/[qCommand](https://github.com/qnimble/qCommand):
+### 2. Refactoring from [qCommand](https://github.com/qnimble/qCommand):
 
 [ben-qnimble](https://github.com/ben-qnimble) made some great additions to their fork of this repo. Their changes include case insensitivity,
 better interpretation of arguments comming from streams and a bunch more. Some of these are refactored here.
